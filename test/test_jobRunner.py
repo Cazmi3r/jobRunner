@@ -1,4 +1,4 @@
-import pytest
+import pytest  # type: ignore
 
 from jobRunner.jobRunner import JobRunner, fib
 
